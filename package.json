@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
+		"author" : "Mostafa Hosny",
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,3 +13,4 @@
 		"url": "https://idontknow/todo.git"
 	}
 }
+
